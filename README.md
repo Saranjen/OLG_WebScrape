@@ -16,6 +16,9 @@ The following images show the types of visualizations that were performed using 
 
 <img width="759" alt="image" src="https://github.com/Saranjen/OLG_WebScrape/assets/103857336/6f958242-ddfa-4f93-a79c-2a669eea4c75">
 
+The Looker Studio Visualization file is here if you wish to explore:
+
+https://lookerstudio.google.com/reporting/a49b12dd-3659-4137-8955-3212b67df288
 
 ## Findings
 
