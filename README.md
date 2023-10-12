@@ -8,6 +8,11 @@ Additonally, Looker Studio (formerly know as Data Studio) was the BI tool used t
 
 ## Visualizations
 
+The Looker Studio Data Visualization file is here if you wish to explore:
+
+https://lookerstudio.google.com/reporting/a49b12dd-3659-4137-8955-3212b67df288
+
+#### Preview
 The following images show the types of visualizations that were performed using Looker Studio:
 
 <img width="797" alt="image" src="https://github.com/Saranjen/OLG_WebScrape/assets/103857336/5ae59397-383c-45b7-acc5-a60d88beedcd">
@@ -16,9 +21,6 @@ The following images show the types of visualizations that were performed using 
 
 <img width="759" alt="image" src="https://github.com/Saranjen/OLG_WebScrape/assets/103857336/6f958242-ddfa-4f93-a79c-2a669eea4c75">
 
-The Looker Studio Visualization file is here if you wish to explore:
-
-https://lookerstudio.google.com/reporting/a49b12dd-3659-4137-8955-3212b67df288
 
 ## Findings
 
